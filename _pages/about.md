@@ -27,9 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Embryonic development is a sensitive time in our lives. Genetic variants or environmental perturbations during pregnancy can have lifelong consequences on offspring health and disease. The McClymont lab is particularly interested in how variants and environment, in isolation and in combination, can affect the embryonic development of different subclasses of neurons to cause neurodevelopmental, neurodegenerative, and neuropsychiatric disorders later in life.
+Embryonic development is a sensitive time in our lives. Genetic variants or environmental perturbations during pregnancy can have lifelong consequences on offspring health and disease. The McClymont lab is particularly interested in how variants and environment, in isolation and in combination, can affect the embryonic development of different subclasses of neurons to cause neurodevelopmental, neurodegenerative, and neuropsychiatric disorders later in life.  
 
-Using a variety of genomics and epigenomics techniques in ex vivo, in vitro, and in vivo models, we are hoping to develop and explore projects to address these broad questions:
-  **Question 1:** How do developing neurons respond to changes in the in utero environment?
-  **Question 2:** How does genetic variation alter neurodevelopment in disease?
-  **Question 3:** How does the environment and the genome interact to influence risk of disease?
+Using a variety of genomics and epigenomics techniques in ex vivo, in vitro, and in vivo models, we are hoping to develop and explore projects to address these broad questions:  
+  **Question 1:** How do developing neurons respond to changes in the in utero environment?  
+  **Question 2:** How does genetic variation alter neurodevelopment in disease?  
+  **Question 3:** How does the environment and the genome interact to influence risk of disease?  
